@@ -1,0 +1,7 @@
+#define MAX_ARGC (10)
+#define MY_DEBUG
+#define CONNECTION_RETRIES 15
+#define CMD_SIZE 81
+#define INPUT_BUFF_SIZE 128
+
+#define DEBUG_MODE
